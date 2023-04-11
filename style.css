@@ -1,5 +1,6 @@
 body {
     background: #0e1020;
+    overflow: hidden;
 }
 :root {
     --grid-size: calc(4.5rem + 2vw);

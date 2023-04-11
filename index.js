@@ -1,6 +1,6 @@
 const box = document.querySelector("#selector-box");
 const leafs = box.children;
-const nLeafs = 35;
+const nLeafs = 44;
 
 for(let i=1; i<=nLeafs; i++){
     let elem = document.createElement("div")
